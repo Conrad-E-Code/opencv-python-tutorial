@@ -9,4 +9,4 @@ cv2.imshow("Truck", img)
 
 
 cv2.waitKey(20000)
-cv2.destroyAllWindows
+cv2.destroyAllWindows()
